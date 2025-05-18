@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Vket Developer Documents",
-  description: " Vket Developer Documents",
+  title: "Vket Developer",
+  description: " Vket Developer Documentation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -14,8 +14,7 @@ export default defineConfig({
       {
         text: 'Overview',
         items: [
-          { text: 'Welcome to Vket', link: '/Overview/welcome' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Welcome to Vket', link: '/Overview/welcome' }
         ]
       }
     ],
