@@ -3,13 +3,12 @@
 layout: home
 
 hero:
-  name: "nicovideo.life Developer Documents"
-  text: " nicovideo.life Developer Documents"
-  tagline: My great project tagline
+  name: "Vket Developer"
+  text: " Developer Documents"
   actions:
     - theme: brand
       text: Get Started
-      link: /Overview/welcome
+      link: /overview/welcome
 
 
 features:
