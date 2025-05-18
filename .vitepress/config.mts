@@ -7,15 +7,14 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/Overview/welcome' }
+      { text: 'Home', link: '/' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Overview',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Welcome to Vket', link: '/Overview/welcome' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
