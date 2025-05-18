@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: 'Overview',
         items: [
-          { text: 'Welcome to Vket', link: '/Overview/welcome' }
+          { text: 'Welcome to Vket', link: '/overview/welcome' }
         ]
       }
     ],
