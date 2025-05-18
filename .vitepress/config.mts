@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "nicovideo.life Developer Documents",
-  description: " nicovideo.life Developer Documents",
+  title: "Vket Developer Documents",
+  description: " Vket Developer Documents",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
