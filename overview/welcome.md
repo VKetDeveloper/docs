@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Welcome to VketREAL Volunteer Development Teamå
+# Welcome to VketREAL Volunteer Development Team
 
 
 
