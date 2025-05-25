@@ -23,6 +23,15 @@ export default defineConfig({
           { text: 'Introduction', link: '/develop/introduction' }
         ]
       }
+      ,
+      {
+        text: 'Beta Program',
+        items: [
+          { text: 'index', link: '/beta/index' },
+          { text: 'プライバシーポリシー', link: '/beta/privacy' },
+          { text: '利用規約', link: '/beta/terms' }
+        ]
+      }
     ],
 
     socialLinks: [
