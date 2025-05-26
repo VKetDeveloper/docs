@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-## GitHubとは？
+# GitHubとは？
 ::: tip  
 Githubを利用していない人は[こちら](https://github.com/) からGitHubアカウントの作成してください。
 :::
