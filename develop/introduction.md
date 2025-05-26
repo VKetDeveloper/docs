@@ -9,8 +9,14 @@ outline: deep
 Githubを利用していない人は[こちら](https://github.com/) からGitHubアカウントの作成してください。
 :::
 
+::: info  
+ここでは、触れませんがよく勘違いされるGitLabもご説明しています。
+:::
+
 ## 目次
-- [Githubについて](github)
+
 - [Gitについて](git)
+- [Githubについて](github)
+- [GitLabについて](gitLab)
 - [作業の進め方](howtoproceed)
 - [プールリクエスト](pullrequest)
