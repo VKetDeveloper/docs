@@ -29,7 +29,7 @@ export default defineConfig({
       {
         text: 'Beta Program',
         items: [
-          { text: 'index', link: '/beta/index' },
+          { text: 'BETA PROGRAM AT VR', link: '/beta/index' },
           { text: 'プライバシーポリシー', link: '/beta/privacy' },
           { text: '利用規約', link: '/beta/terms' }
         ]
