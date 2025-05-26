@@ -20,3 +20,4 @@ Githubを利用していない人は[こちら](https://github.com/) からGitHu
 - [GitLabについて](gitLab)
 - [作業の進め方](howtoproceed)
 - [プールリクエスト](pullrequest)
+- [用語集](term)
