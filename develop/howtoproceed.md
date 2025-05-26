@@ -6,7 +6,7 @@
 
 
 ::: info
-ここではコマンドプロント及びTerminalでやる方法を案内しています。GUIで操作したい場合[GitHub Desktop]（https://github.com/apps/desktop）をご利用ください。  
+ここではコマンドプロント及びTerminalでやる方法を案内しています。GUIで操作したい場合[GitHub Desktop](https://github.com/apps/desktop)をご利用ください。  
 GitHub Desktopの使い方は[こちら](https://docs.github.com/ja/desktop)からご確認ください。
 :::
 
