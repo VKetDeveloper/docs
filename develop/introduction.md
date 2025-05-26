@@ -12,3 +12,5 @@ Githubを利用していない人は[こちら](https://github.com/) からGitHu
 ## 目次
 - [Githubについて](github)
 - [Gitについて](git)
+- [作業の進め方](howtoproceed)
+- [プールリクエスト](pullrequest)
