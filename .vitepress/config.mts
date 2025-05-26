@@ -25,7 +25,8 @@ export default defineConfig({
           { text: 'Howo to Github ', link: '/develop/github' },
           { text:'Howo to GitLab', link: '/develop/gitLab' },
           { text: '作業の進め方', link: '/develop/howtoproceed' },
-          { text: 'How to Pull Request', link: '/develop/pullrequest' }
+          { text: 'How to Pull Request', link: '/develop/pullrequest' },
+          { text: '用語集', link: '/develop/term' }
         ]
       }
       ,
