@@ -20,7 +20,9 @@ export default defineConfig({
       {
         text: 'Develop',
         items: [
-          { text: 'Introduction', link: '/develop/introduction' }
+          { text: 'Introduction', link: '/develop/introduction' },
+          { text: 'Howo to Github ', link: '/develop/github' },
+          { text: 'Howo to Git', link: '/develop/git' }
         ]
       }
       ,
