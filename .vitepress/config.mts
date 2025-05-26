@@ -21,8 +21,9 @@ export default defineConfig({
         text: 'Develop',
         items: [
           { text: 'Introduction', link: '/develop/introduction' },
-          { text: 'Howo to Github ', link: '/develop/github' },
           { text: 'Howo to Git', link: '/develop/git' },
+          { text: 'Howo to Github ', link: '/develop/github' },
+          { text:'Howo to GitLab', link: '/develop/gitLab' },
           { text: '作業の進め方', link: '/develop/howtoproceed' },
           { text: 'How to Pull Request', link: '/develop/pullrequest' }
         ]
