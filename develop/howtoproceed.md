@@ -50,8 +50,11 @@ GitHub Desktopの使い方は[こちら](https://docs.github.com/ja/desktop)か�
 
 * 作成したブランチで、エディタやIDEを使ってファイルの追加、編集、削除などの作業を行います。
 
-::: info　推奨IDEについて
+
+::: info　推奨IDEについて  
+
 基本的には、コマンドプロント及びTerminalでやる場合も[GitHub Desktop](https://github.com/apps/desktop)を利用する場合も、基本的に[Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code)を推奨しています。なお、iOSなどのアプリなどの開発などで利用する場合は、各種IDEをお使いください。
+  
 :::
 
 ## 4. 変更内容のステージングとコミット
